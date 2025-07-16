@@ -2,7 +2,6 @@
 
 site_name: MINIMUMFUNKNSOUL
 site_url: https://minimumfunknsoul.org
-copyright: Copyright &copy; 2025 MINIMUMFUNKNSOUL
 theme:
   name: material
   custom_dir: overrides
