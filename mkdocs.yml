@@ -1,4 +1,29 @@
+# Basic settings
+
 site_name: MINIMUMFUNKNSOUL
-site_url: https://localhost
+site_url: https://minimumfunknsoul.org
+copyright: Copyright &copy; 2025 MINIMUMFUNKNSOUL
 theme:
   name: material
+  custom_dir: overrides
+
+  ## Colors
+  palette:
+    scheme: mfs
+
+# Content
+
+extra:
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:paul@vveller.simplelogin.com
+
+
+extra_css:
+  - stylesheets/one-page.css
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
