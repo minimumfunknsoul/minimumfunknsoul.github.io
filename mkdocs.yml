@@ -1,4 +1,4 @@
 site_name: MINIMUMFUNKNSOUL
-site_url: .
+site_url: https://localhost
 theme:
   name: material
